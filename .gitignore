@@ -1,0 +1,11 @@
+# Ignore folders
+eFaktura/Archived/
+eFaktura/Izlazne fakture/
+eFaktura/old_versions/
+eFaktura/Ulazne fakture/
+
+# Ignore environment file
+.env
+
+# Ignore log file
+eFaktura.log
