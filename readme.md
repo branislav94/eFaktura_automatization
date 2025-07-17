@@ -1,6 +1,6 @@
 # Automatsko preuzimanje i arhiviranje e-faktura (API za Srbiju) 🧾
 
-Ovaj Python skript automatizuje proces preuzimanja izlaznih (prodajnih) i ulaznih (kupovnih) e-faktura putem API-ja Poreske uprave Srbije. Skript preuzima fakture u XML i PDF formatu, organizuje ih po tipu i statusu, i obavlja automatsko arhiviranje starih fajlova kako bi se održao red i smanjila potreba za ručnim upravljanjem.
+Ova Python skripta automatizuje proces preuzimanja izlaznih (prodajnih) i ulaznih (kupovnih) e-faktura putem API-ja Poreske uprave Srbije. Skript preuzima fakture u XML i PDF formatu, organizuje ih po tipu i statusu, i obavlja automatsko arhiviranje starih fajlova kako bi se održao red i smanjila potreba za ručnim upravljanjem.
 
 -----
 
