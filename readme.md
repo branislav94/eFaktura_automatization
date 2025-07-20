@@ -68,6 +68,13 @@ Pratite ove korake da biste pokrenuli skript:
 
     *Napomena: Zamenite `your_script_name.py` sa imenom vašeg Python fajla (npr. `main.py` ili `efakture_downloader.py`).*
 
+
+## 📄 eFaktura Public API (Srbija)
+
+Zvanična dokumentacija za eFaktura API Republike Srbije dostupna je ovde:  
+👉 [https://efaktura.mfin.gov.rs/swagger/index.html?urls.primaryName=Public%20API%20V1](https://efaktura.mfin.gov.rs/swagger/index.html?urls.primaryName=Public%20API%20V1)
+
+
 -----
 
 ## 📈 Primer strukture foldera
